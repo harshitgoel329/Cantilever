@@ -115,6 +115,6 @@ CREATE TABLE issues (
 
 ### 🤝 Credits
 
-Developed by **Devansh Singla** as a Java desktop application project.
+Developed by **Harshit Goel** as a Java desktop application project.
 
 ---
